@@ -37,4 +37,63 @@ This project utilizes Metamask for wallet management and interaction with the Et
 - React.js
 - Sepolia Testnet
 
+# Project Setup Instructions
+
+## 1. Smart Contracts
+
+### Step 1: Navigate to the Project Directory
+```bash
+cd project_files
+```
+
+### Step 2: Compile the Smart Contracts
+```bash
+npx hardhat compile
+```
+
+### Step 3: Deploy the Smart Contracts to the Goerli Testnet
+```bash
+npx hardhat run --network goerli scripts/deploy.js
+```
+
+### Step 4: Start the Hardhat Environment
+```bash
+npx hardhat
+```
+
+## 2. Frontend (React Application)
+
+### Step 1: Create the React App
+```bash
+npx create-react-app website
+```
+
+### Step 2: Navigate to the `website` Directory
+```bash
+cd website
+```
+
+### Step 3: Initialize the npm Project
+```bash
+npm init
+```
+
+### Step 4: Install Necessary Dependencies
+```bash
+npm i
+```
+
+### Step 5: Start the React Development Server
+```bash
+npm start
+```
+
+### Step 6: Access the Application
+Open your browser and navigate to:
+```
+http://localhost:3000
+```
+
+Follow these steps to set up and run the smart contracts and the frontend React application.
+
 
