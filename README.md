@@ -28,8 +28,6 @@ Educational institutions often struggle with managing student feedback effective
 
 ## How to Run the Project
 
-## How to Run the Project
-
 1. npx hardhat compile
 2. npx hardhat run --network unichain scripts/deploy.js
 3. npx hardhat
