@@ -37,5 +37,5 @@ Educational institutions often struggle with managing student feedback effective
 
 4. cd feedback-system
 5. npm init
-6. npm I
+6. npm i
 7. npm start
