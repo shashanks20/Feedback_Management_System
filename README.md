@@ -1,4 +1,4 @@
-# Educational Feedback Management System
+# Feedback Management System
 
 ## Introduction
 
