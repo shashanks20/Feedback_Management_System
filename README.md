@@ -20,7 +20,6 @@ Educational institutions often struggle with managing student feedback effective
 
 ## Technologies Used
 
-- **Ethereum Blockchain**: To store feedback in a secure and transparent manner.
 - **Solidity**: Smart contract development for handling feedback data.
 - **Alchemy & MetaMask**: For blockchain interaction.
 - **Unichain Sepolia Testnet**: A blockchain network used to test the application before deploying it to the main network.
