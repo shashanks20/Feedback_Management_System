@@ -30,12 +30,12 @@ Educational institutions often struggle with managing student feedback effective
 
 ## How to Run the Project
 
-npx hardhat compile
-npx hardhat run --network unichain scripts/deploy.js
-npx hardhat
+1. npx hardhat compile
+2. npx hardhat run --network unichain scripts/deploy.js
+3. npx hardhat
 
 
-cd website
-npm init
-npm I
-npm start
+4. cd feedback-system
+5. npm init
+6. npm I
+7. npm start
